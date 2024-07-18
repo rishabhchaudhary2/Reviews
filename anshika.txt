@@ -1,0 +1,3 @@
+Review:
+The contribution guidelines are clear and helpful.
+The step-by-step process for forking, cloning, and creating a pull request is well-explained.
